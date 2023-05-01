@@ -1,0 +1,10 @@
+
+
+    .article{  background-color: gray; ; margin-top: 100px; margin-left:  100px; margin-bottom: 20px; float: left;width: 64%; padding: 10px;}
+      h1{text-align: center;}
+      .footer{background-color: grey; margin-top: 20px;text-align: center; padding: 40px;width: 1900px;}
+      .ad-sidebar{float: right; margin-top:  100px;}
+      .clear{clear: both;}
+      a{text-decoration: none;color: black;}
+      body{background-color: bisque;}
+      img{width: 350px; margin: 10px;}

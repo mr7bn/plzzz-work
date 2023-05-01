@@ -1,0 +1,11 @@
+h1{text-align: center;}
+li{display: inline; color: aliceblue; margin: 5px;}
+a{text-decoration: none;color: black;}
+.navbar{text-align: center; background-color: darkcyan; padding:8px ; width: 30%; margin-left: 660px;}
+h4{text-align: center;}
+img{float: left;margin: 30px;}
+.article{margin-right: 50px; background-color: gray; ; margin-top: 20px; margin-left:  250px; float: left;}
+body{background-color: bisque;}
+.ad-sidebar{width: 200px; float: left;margin-top: 10px;}
+.footer{background-color: grey; margin-top:30px ; padding-bottom: 250px;text-align: center;padding-top: 100px;}
+.clear{clear: both;}
